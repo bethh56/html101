@@ -43,3 +43,8 @@ footer {
     bottom: 0;
     position: fixed;
 }
+
+.card {
+    border: 2px solid #333;
+    border-radius: 10px;
+}
